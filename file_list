@@ -1,0 +1,13 @@
+BASH_Adv_CompSci
+file_list
+script_01.sh
+total 24
+drwxr-x---  4 compsci root    4096 Aug 28 10:01 .
+drwxr-xr-x 76 compsci compsci 4096 Aug 28 09:40 ..
+drwxr-xr-x  2 compsci compsci 4096 Aug 24 10:44 BASH_Adv_CompSci
+-rw-r--r--  1 compsci compsci   40 Aug 28 09:55 file_list
+drwxr-xr-x  8 compsci compsci 4096 Aug 28 09:52 .git
+-rwxr-xr-x  1 compsci compsci  425 Aug 28 10:01 script_01.sh
+
+
+
